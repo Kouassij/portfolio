@@ -442,7 +442,6 @@ img.avatar2{
    color: #FFF;
    
        height: 5px;
-    border-radius: 10px;
     width: 0px;
     display: inline-block;
     position: absolute;
@@ -457,9 +456,7 @@ padding: 10px 0 10px ;
     display: inline-block;
     height: 5px;
     width: 100%;
-    border-radius: 10px;
-    text-align: left;
-    margin-left: 40px;
+   
 }
  
 /*Portfolio*/
